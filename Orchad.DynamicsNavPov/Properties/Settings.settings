@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Orchad.DynamicsNavPov.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Orchad_DynamicsNavPov_WebService_Customer_Service" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://win-k4iu0ll836s:7047/DynamicsNAV90/WS/CRONUS%20International%20Ltd./Page/Customer</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

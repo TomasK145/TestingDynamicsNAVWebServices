@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDynamicsNavWebService", "TestDynamicsNavWebService\TestDynamicsNavWebService.csproj", "{B2641DFF-2F79-456A-B207-28E264D39D21}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orchad.DynamicsNavPov", "Orchad.DynamicsNavPov\Orchad.DynamicsNavPov.csproj", "{D7C14DC6-A0EC-4E01-976B-EBF1AE069C2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B2641DFF-2F79-456A-B207-28E264D39D21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2641DFF-2F79-456A-B207-28E264D39D21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2641DFF-2F79-456A-B207-28E264D39D21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7C14DC6-A0EC-4E01-976B-EBF1AE069C2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7C14DC6-A0EC-4E01-976B-EBF1AE069C2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7C14DC6-A0EC-4E01-976B-EBF1AE069C2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7C14DC6-A0EC-4E01-976B-EBF1AE069C2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
